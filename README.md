@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="idealplayer-logo.png" width="180" alt="IdealPlayer logo">
-  <h1>IdealPlayer</h1>
+  <img src="sonix-logo.png" width="320" alt="SONIX IPTV logo">
+  <h1>SONIX IPTV</h1>
   <p>Android mobile and Android TV player for user-provided IPTV playlists and streams.</p>
 </div>
 
